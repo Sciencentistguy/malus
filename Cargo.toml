@@ -9,3 +9,6 @@ description = "macOS status monitoring - WIP"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+macsmc = "0.1.7"
+
+[features]
